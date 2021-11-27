@@ -175,6 +175,18 @@
     },
     {
       "chainId": 101,
+      "address": "D6wDidyDqRRhhPxVNJoBaMUnjZ3p9kU6xpQ8Cbe1Wx4Z",
+      "symbol": "Сur",
+      "name": "Cursach",
+      "decimals": 0,
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjTIQKfnhpyHvWPnA9qfHe6pR44q_Ya_UeKg&usqp=CAU",
+      "tags": [],
+      "extensions":{
+        "Discord": "https://discord.com/channels/@me"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
       "symbol": "wUSDT",
       "name": "Wrapped USDT (Sollet)",
